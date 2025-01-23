@@ -41,4 +41,15 @@ The **VTM Dice Roller** is a mobile app designed for players of *Vampire: The Ma
    - Total successes.
    - Critical successes (if applicable).
 
-Example:
+## Examples:
+1. Dice: 5 Difficulty: 6 Rolls: [8, 10, 4, 7, 10] Successes: 4 (including 2 critical successes)
+2. Dice: 5 Difficulty: 2 Rolls: [1, 10, 2, 7, 10] Successes: 4 (including 0 critical successes)
+3. Dice: 5 Difficulty: 6 Rolls: [1, 10, 10, 7, 10] Successes: 5 (including 2 critical successes)
+4. Dice: 5 Difficulty: 6 Rolls: [1, 10, 10, 10, 10] Successes: 6 (including 3 critical successes)
+5. Dice: 5 Difficulty: 6 Rolls: [1, 1, 1, 10, 10] Successes: -1 (including 0 critical successes)
+
+## Rules Summary
+- Rolls meeting or exceeding the difficulty level are considered successes.
+- Multiple `10s` in a roll (critical success) count as 2 successes each.
+- Rolls below the difficulty do not count.
+- `1's` eliminate the highest number in a roll unless it is a `1` as well
