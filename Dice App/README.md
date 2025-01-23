@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **VTM Dice Roller** is a mobile app designed for players of *Vampire: The Masquerade* (VTM). It calculates the number of successes based on the number of dice rolled and the specified difficulty level, making your gameplay faster and more efficient.
+The **VTM Dice Roller** is a mobile app designed for players of *Vampire: The Masquerade* (VTM). It calculates the number of successes based on the number of dice rolled and the specified difficulty level, making gameplay faster and more efficient when large amounts of dice need to rolled at the same time.
 
 ---
 
